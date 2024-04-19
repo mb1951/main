@@ -1,7 +1,8 @@
 body {
     font-family: sans-serif;
     background-color: white;
-    width: 1300px;
+    width: 100%;
+    
 }
 nav a {
     text-decoration: none;
